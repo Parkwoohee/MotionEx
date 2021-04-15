@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: e84009d196b4e4943ad73087fd39deb8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: HaveN
+    100002: mesh_0_towel_mh
+    100004: //RootNode
+    100006: TowelL1
+    100008: TowelL2
+    100010: TowelL3
+    100012: TowelL4
+    100014: TowelL5
+    100016: TowelL6
+    100018: TowelNeckN
+    100020: TowelR1
+    100022: TowelR2
+    100024: TowelR3
+    100026: TowelR4
+    100028: TowelR5
+    100030: TowelR6
+    100032: TowelTopN
+    400000: HaveN
+    400002: mesh_0_towel_mh
+    400004: //RootNode
+    400006: TowelL1
+    400008: TowelL2
+    400010: TowelL3
+    400012: TowelL4
+    400014: TowelL5
+    400016: TowelL6
+    400018: TowelNeckN
+    400020: TowelR1
+    400022: TowelR2
+    400024: TowelR3
+    400026: TowelR4
+    400028: TowelR5
+    400030: TowelR6
+    400032: TowelTopN
+    2100000: towel_mt_alp-material
+    4300000: mesh_0_towel_mh
+    9500000: //RootNode
+    13700000: mesh_0_towel_mh
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
